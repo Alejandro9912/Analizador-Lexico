@@ -7,7 +7,7 @@ package AnalizadorLex;
 
 /**
  *
- * @author mdelgado
+ * @author Alejandro
  */
 public enum Tokens {
     Int,

@@ -13,7 +13,7 @@ import java.nio.file.Paths;
 
 /**
  *
- * @author mdelgado
+ * @author Alejandro
  */
 public class Main {
     public static void main(String[] args) throws Exception {

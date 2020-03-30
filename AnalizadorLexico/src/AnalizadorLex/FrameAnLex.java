@@ -24,7 +24,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author mdelgado
+ * @author Alejandro
  */
 public class FrameAnLex extends javax.swing.JFrame {
     JFileChooser escoger = new JFileChooser();
